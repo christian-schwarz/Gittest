@@ -1,0 +1,165 @@
+div {
+    font-family: "verdana";
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color:gray;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.header-wrapper {
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+
+.user-avatar {
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    right: 10px;
+    width: 38px;
+    height: 41px; 
+}
+
+.notifications {
+    position: absolute;
+    top: 10px;
+    right: 62px;
+    width: 29px;
+    height: 33px;
+}
+
+.services {
+    position: absolute;
+    top: 16px;
+    right: 110px;
+    width: 18px;
+    height: 21px;
+    
+}
+
+.pictures {
+    position: absolute;
+    top: 17px;
+    right: 155px;
+}
+
+.gmail {
+    position: absolute;
+    top: 17px;
+    right: 220px;
+}
+
+.search-wrapper {
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0px;
+    width: 375px;
+    height: 195px;
+    
+}
+
+.search-bar {
+    width: 590px;
+    height: 40px;
+    border: 1px solid #d6d6c2;
+    padding-left: 20px;
+    font-family: "verdana"
+}
+
+.search-pos {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 590px;
+    height: 40px;
+    top: 10px;
+}
+
+.button-style {
+    width: 120px;
+    height: 37px;
+    border: none;
+    background-color: #d6d6c2;
+    color: #787c6a;
+    font-family: "verdana"
+}
+
+.button-pos {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 37px;
+    top: 25px;
+}
+
+.footer-wrapper {
+    position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 40px;
+    background-color: #ebebe0;
+}
+
+.werbe {
+   position: absolute;
+	top: 13px;
+	left: 15px;
+    font-size: 0.6em;
+}
+
+.unternehmen {
+    position: absolute;
+	top: 13px;
+	left: 120px;
+    font-size: 0.6em;
+}
+
+.google {
+    position: absolute;
+	top: 13px;
+	left: 200px;
+    font-size: 0.6em;
+}
+
+.datenschutz {
+    position: absolute;
+	top: 13px;
+	right: 217px;
+    font-size: 0.6em;
+}
+
+.nutzung {
+    position: absolute;
+	top: 13px;
+	right: 92px;
+    font-size: 0.6em;
+}
+
+.einstell {
+    position: absolute;
+	top: 13px;
+	right: 10px;
+    font-size: 0.6em;
+}
